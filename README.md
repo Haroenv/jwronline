@@ -1,8 +1,10 @@
 #JWRonline
 
-http://haroenv.github.io
+https://haroenv.github.io
 
-http://jwronline.be
+https://jwronline.be
+
+https://jwronline.github.io
 
 Website voor de jeugdwerkgroep ruimtevaart. Dit is een jeugdbeweging in Brugge die zich bezig houdt met ruimtevaart en aanverwante wetenschappen.
 
