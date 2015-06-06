@@ -10,6 +10,8 @@ Website voor de jeugdwerkgroep ruimtevaart. Dit is een jeugdbeweging in Brugge d
 
 Dit is aangepast van [HTML5up](http://html5up.net), dus ik bepaal hier de licentie niet van.
 
+CCA 3.O http://html5up.net/license 
+
 #Door
 
 [Haroen Viaene](http://haroen.me)
