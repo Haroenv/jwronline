@@ -146,6 +146,11 @@ article:last-child {
     margin-bottom: 0;
 }
 
+.container {
+    background-color: rgba(85, 85, 85, 0.63);
+    border-radius: 5px;
+}
+
 /* Images */
 
 .image {
