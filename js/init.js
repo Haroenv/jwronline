@@ -78,14 +78,14 @@
 			// Disable animations/transitions until everything's loaded
 				$all
 					.addClass('loading')
-					.fadeTo(0, 0.3);
+					// .fadeTo(0, 0.3);
 
 				$window.load(function() {
 					window.setTimeout(function() {
 						$all
 							.fadeTo(_settings.fadeInSpeed, 1, function() {
 								$body.removeClass('loading');
-								$all.fadeTo(0, 1);
+								// $all.fadeTo(0, 1);
 							});
 					}, _settings.fadeInSpeed);
 				});
