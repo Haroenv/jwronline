@@ -24,8 +24,8 @@
 					'wide': { range: '-1920', containers: 1360 },
 					'normal': { range: '-1680', containers: 1200 },
 					'narrow': { range: '-1280', containers: 960 },
-					'narrower': { range: '-1000', containers: '95%', lockViewport: true },
-					'mobile': { range: '-640', containers: '95%', grid: { gutters: 20 }, lockViewport: true },
+					// 'narrower': { range: '-1000', containers: '95%', lockViewport: true },
+					'mobile': { range: '-1120', containers: '95%', grid: { gutters: 20 }, lockViewport: true },
 					'mobile-narrow': { range: '-480', containers: '95%', grid: { collapse: true, gutters: 10 }, lockViewport: true, hasStyleSheet: false }
 				}
 			},
